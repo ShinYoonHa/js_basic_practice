@@ -4,5 +4,5 @@ test();
 
 function test() { 			
 	document.write("x is " + x + ", y is " + y);
-  var y = 200;
+  var y=200;
 }
