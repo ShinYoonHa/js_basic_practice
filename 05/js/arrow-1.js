@@ -4,6 +4,6 @@
         
 // const hi = () => {return "안녕하세요?"};
 
-const hi = () => "안녕하세요?";
+const yes = () => "맞아요";
         
-alert(hi());
+alert(yes());
